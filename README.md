@@ -1,6 +1,6 @@
 # Hi, I'm Peter Landis 👋
 
-### Software Engineer | Product Builder | Open-Source Founder
+### AI Engineer | AI Builder | GlucoseAITracker Creator | OpenGlucose Founder
 
 I build software at the intersection of **artificial intelligence, healthcare technology, data interoperability, and developer platforms**.
 
