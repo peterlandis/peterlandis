@@ -1,4 +1,4 @@
-# Hi, I'm Peter Landis 👋
+# Hi, I'm Peter Landis! 👋
 
 ### AI Engineer | Product Builder | GlucoseAITracker Creator | OpenGlucose Founder
 
